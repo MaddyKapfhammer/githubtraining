@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: November 15, 2023
+- Class Date: 11-15-2023
 - Facilitator: Madelyn Kapfhammer
 - Name: Madelyn Kapfhammer
 
